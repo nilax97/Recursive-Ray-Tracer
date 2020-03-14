@@ -1,0 +1,739 @@
+{
+	"rows": 500,
+	"columns": 500,
+	"eye": 500.0,
+	"view_reference": {
+		"ref_x": 250.0,
+		"ref_y": 50.0,
+		"ref_z": 50.0
+	},
+	"view_plane": {
+		"normal_x": 0.0,
+		"normal_y": 1.0,
+		"normal_z": -0.5
+	},
+	"up_vector": {
+		"up_x": 0.0,
+		"up_y": 1.0,
+		"up_z": 2.0
+	},
+	"entities": [
+		{
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 0,
+						"_y": 0,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 0,
+						"_y": 125,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 125,
+						"_y": 125,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 125,
+						"_y": 0,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 0,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 125,
+						"_y": 0,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 125,
+						"_y": 125,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 250,
+						"_y": 125,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 250,
+						"_y": 0,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 255,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 250,
+						"_y": 0,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 250,
+						"_y": 125,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 375,
+						"_y": 125,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 375,
+						"_y": 0,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 0,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 375,
+						"_y": 0,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 375,
+						"_y": 125,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 500,
+						"_y": 125,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 500,
+						"_y": 0,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 255,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 0,
+						"_y": 125,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 0,
+						"_y": 250,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 125,
+						"_y": 250,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 125,
+						"_y": 125,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 255,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 125,
+						"_y": 125,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 125,
+						"_y": 250,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 250,
+						"_y": 250,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 250,
+						"_y": 125,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 0,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 250,
+						"_y": 125,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 250,
+						"_y": 250,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 375,
+						"_y": 250,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 375,
+						"_y": 125,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 255,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 375,
+						"_y": 125,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 375,
+						"_y": 250,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 500,
+						"_y": 250,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 500,
+						"_y": 125,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 0,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 0,
+						"_y": 250,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 0,
+						"_y": 375,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 125,
+						"_y": 375,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 125,
+						"_y": 250,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 0,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 125,
+						"_y": 250,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 125,
+						"_y": 375,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 250,
+						"_y": 375,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 250,
+						"_y": 250,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 255,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 250,
+						"_y": 250,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 250,
+						"_y": 375,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 375,
+						"_y": 375,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 375,
+						"_y": 250,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 0,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 375,
+						"_y": 250,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 375,
+						"_y": 375,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 500,
+						"_y": 375,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 500,
+						"_y": 250,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 255,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 0,
+						"_y": 375,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 0,
+						"_y": 500,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 125,
+						"_y": 500,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 125,
+						"_y": 375,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 255,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 125,
+						"_y": 375,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 125,
+						"_y": 500,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 250,
+						"_y": 500,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 250,
+						"_y": 375,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 0,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 250,
+						"_y": 375,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 250,
+						"_y": 500,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 375,
+						"_y": 500,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 375,
+						"_y": 375,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 255,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 4,
+				"points": {
+					"points_1": {
+						"_x": 375,
+						"_y": 375,
+						"_z": 0
+					},
+					"points_2": {
+						"_x": 375,
+						"_y": 500,
+						"_z": 0
+					},
+					"points_3": {
+						"_x": 500,
+						"_y": 500,
+						"_z": 0
+					},
+					"points_4": {
+						"_x": 500,
+						"_y": 375,
+						"_z": 0
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 0,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"sphere": {
+				"radius": 50.0,
+				"centre": {
+					"centre_x": 200.0,
+					"centre_y": 200.0,
+					"centre_z": 150.0
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 255,
+					"col_b": 255
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 1.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}
+	],
+	"ambient": {
+		"col_r": 255,
+		"col_g": 255,
+		"col_b": 255
+	},
+	"lights": [
+		{
+			"position": {
+				"pos_x": 150.0,
+				"pos_y": 350.0,
+				"pos_z": 50.0
+			},
+			"colour": {
+				"col_r": 255,
+				"col_g": 255,
+				"col_b": 255
+			}
+		}
+	]
+}

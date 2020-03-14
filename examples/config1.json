@@ -1,0 +1,227 @@
+{
+	"rows": 500,
+	"columns": 500,
+	"eye": 1000.0,
+	"view_reference": {
+		"ref_x": 250.0,
+		"ref_y": 250.0,
+		"ref_z": 300.0
+	},
+	"view_plane": {
+		"normal_x": 0.0,
+		"normal_y": 0.0,
+		"normal_z": -1.0
+	},
+	"up_vector": {
+		"up_x": 0.0,
+		"up_y": 1.0,
+		"up_z": 0.0
+	},
+	"entities": [
+		{
+			"sphere": {
+				"radius": 50.0,
+				"centre": {
+					"centre_x": 50.0,
+					"centre_y": 180.0,
+					"centre_z": 0.0
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 0,
+					"col_b": 0
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [1.732,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"sphere": {
+				"radius": 50.0,
+				"centre": {
+					"centre_x": 220.0,
+					"centre_y": 220.0,
+					"centre_z": -50.0
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 255,
+					"col_b": 255
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 1.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"sphere": {
+				"radius": 60.0,
+				"centre": {
+					"centre_x": 300.0,
+					"centre_y": 300.0,
+					"centre_z": 100.0
+				},
+				"colour": {
+					"col_r": 220,
+					"col_g": 220,
+					"col_b": 255
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 1.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"polygon": {
+				"npoints": 6,
+				"points": {
+					"points_1": {
+						"_x": 100,
+						"_y": 250,
+						"_z": 150
+					},
+					"points_2": {
+						"_x": 125,
+						"_y": 275,
+						"_z": 150
+					},
+					"points_3": {
+						"_x": 175,
+						"_y": 275,
+						"_z": 150
+					},
+					"points_4": {
+						"_x": 200,
+						"_y": 250,
+						"_z": 150
+					},
+					"points_5": {
+						"_x": 175,
+						"_y": 225,
+						"_z": 150
+					},
+					"points_6": {
+						"_x": 125,
+						"_y": 225,
+						"_z": 150
+					}
+				},
+				"colour": {
+					"col_r": 255,
+					"col_g": 60,
+					"col_b": 60
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 2,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}, {
+			"plane": {
+				"normal": {
+					"normal_x": 0,
+					"normal_y": 1,
+					"normal_z": 0
+				},
+				"point": {
+					"point_x": 0,
+					"point_y": 130,
+					"point_z": 0
+				},
+				"colour": {
+					"col_r": 240,
+					"col_g": 240,
+					"col_b": 120
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 3,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		},{
+			"plane": {
+				"normal": {
+					"normal_x": 0,
+					"normal_y": 0,
+					"normal_z": 1
+				},
+				"point": {
+					"point_x": 0,
+					"point_y": 130,
+					"point_z": -500
+				},
+				"colour": {
+					"col_r": 240,
+					"col_g": 240,
+					"col_b": 240
+				},
+				"material": {
+					"mat_ka": 0.75,
+					"mat_kd": 1.0,
+					"mat_ks": 1.0,
+					"mat_krg": 0.0,
+					"mat_ktg": 0.0,
+					"mat_rough": 3,
+					"mat_index": 1.5
+				},
+				"isTransformed": false,
+				"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+			}
+		}
+	],
+	"ambient": {
+		"col_r": 50,
+		"col_g": 50,
+		"col_b": 50
+	},
+	"lights": [
+		{
+			"position": {
+				"pos_x": 150.0,
+				"pos_y": 350.0,
+				"pos_z": 50.0
+			},
+			"colour": {
+				"col_r": 255,
+				"col_g": 255,
+				"col_b": 255
+			}
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"rows": 500,
+	"columns": 500,
+	"eye": 1000.0,
+	"view_reference": {
+		"ref_x": 250.0,
+		"ref_y": 250.0,
+		"ref_z": 0.0
+	},
+	"view_plane": {
+		"normal_x": 0.0,
+		"normal_y": 0.0,
+		"normal_z": -1.0
+	},
+	"up_vector": {
+		"up_x": 0.0,
+		"up_y": 1.0,
+		"up_z": 0.0
+	},
+	"entities": [{
+		"sphere": {
+			"radius": 50.0,
+			"centre": {
+				"centre_x": 350.0,
+				"centre_y": 350.0,
+				"centre_z": 0.0
+			},
+			"colour": {
+				"col_r": 255,
+				"col_g": 0,
+				"col_b": 0
+			},
+			"material": {
+				"mat_ka": 0.75,
+				"mat_kd": 1.0,
+				"mat_ks": 0.1,
+				"mat_krg": 0.0,
+				"mat_ktg": 0.0,
+				"mat_rough": 2,
+				"mat_index": 1.5
+			},
+			"isTransformed": false,
+			"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+		}	
+	}, {
+		"sphere": {
+			"radius": 50.0,
+			"centre": {
+				"centre_x": 220.0,
+				"centre_y": 220.0,
+				"centre_z": -50.0
+			},
+			"colour": {
+				"col_r": 255,
+				"col_g": 255,
+				"col_b": 255
+			},
+			"material": {
+				"mat_ka": 1.0,
+				"mat_kd": 0.0,
+				"mat_ks": 1.0,
+				"mat_krg": 1.0,
+				"mat_ktg": 0.0,
+				"mat_rough": 20,
+				"mat_index": 1.5
+			},
+			"isTransformed": false,
+			"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+		}
+	}, {
+		"sphere": {
+			"radius": 60.0,
+			"centre": {
+				"centre_x": 300.0,
+				"centre_y": 300.0,
+				"centre_z": 100.0
+			},
+			"colour": {
+				"col_r": 255,
+				"col_g": 255,
+				"col_b": 255
+			},
+			"material": {
+				"mat_ka": 0.2,
+				"mat_kd": 0.0,
+				"mat_ks": 1.0,
+				"mat_krg": 0.0,
+				"mat_ktg": 1.0,
+				"mat_rough": 20,
+				"mat_index": 1.7
+			},
+			"isTransformed": false,
+			"transformation": [[1,0,0,0], [0,1,0,0], [0,0,1,0], [0,0,0,1]]
+		}
+	}],
+	"ambient": {
+		"col_r": 255,
+		"col_g": 255,
+		"col_b": 255
+	},
+	"lights": [{
+		"position": {
+			"pos_x": 50.0,
+			"pos_y": 450.0,
+			"pos_z": 100.0
+		},
+		"colour": {
+			"col_r": 255,
+			"col_g": 255,
+			"col_b": 255
+		}
+	}]
+}
