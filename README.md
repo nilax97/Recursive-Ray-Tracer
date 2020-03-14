@@ -1,6 +1,8 @@
 # ray_tracer
 An OpenGL type recursive ray tracing implementation in Java for rendering views for course on Computer Graphics at IIT Delhi
 
+For more details refer to [problem_statement.pdf](problem_statement.pdf)
+
 # Running
 
 ```sh
